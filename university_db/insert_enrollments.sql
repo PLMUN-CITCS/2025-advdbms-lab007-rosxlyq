@@ -1,3 +1,4 @@
+USE `UniversityDB`;
 INSERT INTO `Enrollments` (`StudentID`, `CourseID`, `EnrollmentDate`)
 VALUES
    (1, 1, '2023-09-01'),
